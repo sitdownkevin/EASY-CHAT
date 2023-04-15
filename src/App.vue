@@ -12,7 +12,7 @@ export default {
         },
         'token': {
           'dict': {
-            'my1': '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',
+            'my1': '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',
             'custom': '',
           },
           'current': 'custom',
